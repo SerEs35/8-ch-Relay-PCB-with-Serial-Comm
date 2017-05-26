@@ -12,5 +12,5 @@ The documents in this repository are listed as follows:
 \schema_8relay.brd
 >Contains the layout of the circuit, performed in Eagle Cadsoft
 
-\pic16f84a.asm
+\project.asm
 >Contains the source code in ASM language for the microcontroller
