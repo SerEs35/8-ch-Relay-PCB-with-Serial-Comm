@@ -14,3 +14,6 @@ The documents in this repository are listed as follows:
 
 \project.asm
 >Contains the source code in ASM language for the microcontroller
+
+\Serial_rs232.zip
+>Contains the source code project for the GUI coded in C# with MS Visual Studio 2003
